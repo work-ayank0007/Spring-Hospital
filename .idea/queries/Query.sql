@@ -1,0 +1,1 @@
+select * from "hospitalDB".public.patient;
